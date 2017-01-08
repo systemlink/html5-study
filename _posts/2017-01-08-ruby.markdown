@@ -5,14 +5,36 @@ date:   2017-01-08 23:06:34 +0900
 categories: html5
 ---
 
-<ruby><rb>漢字</rb><rt>かんじ</rt></ruby>
-<ruby><rb>漢字<rt>かんじ</ruby>
-<ruby><rb>漢</rb><rb>字</rb><rt>かん</rt><rt>じ</rt></ruby>
-<ruby>漢<rb>字<rt>かん<rt>じ</ruby>
+<ruby>
+  <rb>漢字</rb><rt>かんじ</rt>
+</ruby>
+
+<ruby>
+  <rb>漢字<rt>かんじ
+</ruby>
+
+<ruby>
+  <rb>漢</rb><rb>字</rb><rt>じ</rt>
+</ruby>
+
+<ruby>
+  漢<rb>字<rt>かん<rt>じ
+</ruby>
 
 ```
-<ruby><rb>漢字</rb><rt>かんじ</rt></ruby>
-<ruby><rb>漢字<rt>かんじ</ruby>
-<ruby><rb>漢</rb><rb>字</rb><rt>かん</rt><rt>じ</rt></ruby>
-<ruby>漢<rb>字<rt>かん<rt>じ</ruby>
+<ruby>
+  <rb>漢字</rb><rt>かんじ</rt>
+</ruby>
+
+<ruby>
+  <rb>漢字<rt>かんじ
+</ruby>
+
+<ruby>
+  <rb>漢</rb><rb>字</rb><rt>じ</rt>
+</ruby>
+
+<ruby>
+  漢<rb>字<rt>かん<rt>じ
+</ruby>
 ```
