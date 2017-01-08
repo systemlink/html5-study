@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "legend要素"
+date:   2017-01-08 22:08:34 +0900
+categories: html5
+---
+
+<fieldset>
+  <legend>個人情報</legend>
+  <p>
+    <label>
+	  名前:</br>
+	  <input type="text" name="nm">
+	</label>
+  </p>
+  <p>
+    <label>
+	  住所:</br>
+	  <textarea name="ad" rows="3"></textarea>
+	</label>
+  </p>
+</fieldset>
