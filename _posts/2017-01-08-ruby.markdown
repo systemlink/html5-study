@@ -6,35 +6,34 @@ categories: html5
 ---
 
 <ruby>
-  <rb>漢字</rb><rt>かんじ</rt>
+<rb>漢</rb><rt>かん</rt>
+<rb>字</rb><rt>じ</rt>
 </ruby>
 
 <ruby>
-  <rb>漢字<rt>かんじ
+漢<rt>かん</rt>
+字<rt>じ</rt>
 </ruby>
 
 <ruby>
-  <rb>漢</rb><rb>字</rb><rt>じ</rt>
-</ruby>
-
-<ruby>
-  漢<rb>字<rt>かん<rt>じ
+<rb>漢</rb><rp>（</rp><rt>かん</rt><rp>）</rp>
+<rb>字</rb><rp>（</rp><rt>じ</rt><rp>）</rp>
 </ruby>
 
 ```
+
 <ruby>
-  <rb>漢字</rb><rt>かんじ</rt>
+<rb>漢</rb><rt>かん</rt>
+<rb>字</rb><rt>じ</rt>
 </ruby>
 
 <ruby>
-  <rb>漢字<rt>かんじ
+漢<rt>かん</rt>
+字<rt>じ</rt>
 </ruby>
 
 <ruby>
-  <rb>漢</rb><rb>字</rb><rt>じ</rt>
-</ruby>
-
-<ruby>
-  漢<rb>字<rt>かん<rt>じ
+<rb>漢</rb><rp>（</rp><rt>かん</rt><rp>）</rp>
+<rb>字</rb><rp>（</rp><rt>じ</rt><rp>）</rp>
 </ruby>
 ```
