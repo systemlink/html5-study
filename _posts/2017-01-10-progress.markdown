@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "progress要素"
+date:   2017-01-10 13:13:34 +0900
+categories: html5
+---
+
+<p><progress value="30" max="100">30%</progress> （30%）</p>
+
+```
+<p><progress value="30" max="100">30%</progress> （30%）</p>
+```
