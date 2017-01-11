@@ -15,7 +15,7 @@ categories: html5
 - colgroup
 - tbody
 
-## 終了タグが省略可能（開始タグのみでも可能）
+#### 終了タグが省略可能（開始タグのみでも可能）
 
 - li
 - dt
