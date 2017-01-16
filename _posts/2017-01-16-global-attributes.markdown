@@ -24,7 +24,7 @@ categories: html5
 - spellcheck（列挙属性：true,false）
 - contenteditable（列挙属性：true,false）
 
-`論理属性` は値が省略できる  
+`論理属性` は値が省略できる。逆に言うと指定しても何もおきない  
 `列挙属性` は入力する値が決まっている
 
 ## HTML5で追加されたやつ
