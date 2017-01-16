@@ -16,13 +16,16 @@ categories: html5
 - lang
 - title
 - style
-- dir
+- dir（列挙属性：ltr,rtl,auto）
 - tabindex
 - accesskey
-- hidden
-- translate
-- spellcheck
-- contenteditable
+- hidden（論理属性）
+- translate（列挙属性：yes,no）
+- spellcheck（列挙属性：true,false）
+- contenteditable（列挙属性：true,false）
+
+`論理属性` は値が省略できる  
+`列挙属性` は入力する値が決まっている
 
 ## HTML5で追加されたやつ
 
