@@ -43,7 +43,7 @@ categories: html5
   <p>表示するやつ</p>
 </div>
 <div hidden>
-  <p>表示するやつ</p>
+  <p>表示しないやつ</p>
 </div>
 ```
 
