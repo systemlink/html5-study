@@ -88,3 +88,14 @@ Please translate here
 <p contenteditable="true" spellcheck="false">This is a sampl.</p>
 <p contenteditable="false" spellcheck="true">This is a sampl.</p>
 ```
+
+## カスタムデータ属性
+
+カスタムデータ属性で `data-*` が存在します。
+```
+<div data-name="watanabe" data-birthday="1967-06-21">
+  <a href="http://watanabe.com/">渡部</a>
+</div>
+```
+なんて感じで要素に独自の属性を追加できる。  
+今回の場合は `div`要素に `name` と `birthday` の属性を追加したイメージ。
