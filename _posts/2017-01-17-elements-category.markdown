@@ -36,3 +36,63 @@ HTMLの内容として入れられるコンテンツが要素ごとに決めら�
 - video要素
 - canvas要素
 - map要素
+
+## Heading content(見出しコンテンツ)
+
+h1〜h6のみ
+
+## Sectioning content(セクションコンテンツ)
+
+文章を区切るやつ
+
+- article
+- aside
+- nav
+- section
+
+## Phrasing content(文章内コンテンツ)
+
+ほぼ元々インライン要素だったやつ
+
+## Embedded content(組み込みコンテンツ)
+
+他のリソースを埋め込むやつ
+
+- audio
+- canvas
+- embed
+- iframe
+- img
+- object
+- video
+
+## Interactive content(対話型コンテンツ)
+
+ユーザーの操作に対応するやつ
+
+- a
+- audio
+- button
+- embed
+- iframe
+- img
+- input
+- keygen
+- label
+- object
+- select
+- textarea
+- video
+
+## Metadata content(文書情報コンテンツ)
+
+文書情報や他の文書との関係を定義するやつ
+
+- base
+- link
+- meta
+- noscript
+- script
+- style
+- template
+- title
